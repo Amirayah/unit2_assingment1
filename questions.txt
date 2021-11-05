@@ -1,0 +1,87 @@
+###################################################################
+#####                                                         #####
+#####                     QUESTIONS                           #####
+#####                   Mariely Nives                         #####
+#####                   Nilda Yah                             #####
+###################################################################
+
+1.-¿What is AI?
+
+R = It is the science and engineering of making intelligent machines, especially intelligent computer programs. Also, it implies to build smart machies capable of performing tasks that typically involves human intelligence.
+
+2.- What are examples of AI?
+
+Smart assistants like Alexa and google assistent, self driving cars, email filters, etc.
+
+3.- How is AI applied for security and surveillance?
+
+Some AI techniques are applied to face recognition,voice identifiction, and video analysis. Ai is important for security systems, it can identify objects which makes more fexible systems. Also, AI in video surveillance can detect suspicious activity focusing on abnormal behavior patterns, not faces. 
+
+4.- How AI is applied on business?
+
+AI tools and platforms help to businesses understand the way their customers are adapting to a determine situation.
+
+5.- What are the four types of AI?
+
+Reactive Machines, limited memory, theory of mind and self-awareness.
+
+6.- What kind of AI is Self awareness?
+This kind of AI possesses human-level consciousness andundertand its own existence in the world, as well as the presence and emotionalstate of others,
+
+
+7.- How AI affect human life?
+
+The automation of tedious, time-consuming tasks to; The augmentation of human capabilties and; The amplification of human functions.
+
+8.-	Which will be replaced by robots and automated programs in the future?
+
+Jobs in the transportation, food service, storage, and manufacturing/construction industries.
+
+9.- What are the types of Automation?
+
+Robotic process automation, machine learning and cognitive augmentation.
+
+10.- what is the robotic process automation? 
+
+This automates repetitive rule-based process, it simply makes mundanetasks more efficient. Such s a robot in an assembly line.
+
+11.- what is a cognitive augmentation?
+
+It is the closest technology to a true AI. It takes unstructured data and provides answers yo complex questions.
+
+12.- Waht are the main characteristics of big data?
+
+Velocity, volume, value, variety veracity, validity and volatility.
+
+13.- WHat is the variety characteristic of big data?
+
+It is the types of data that we gather from different kinds of sources.
+
+14.- what are the characteristics of cloud computing?
+
+On demandself service, broad network access, Multi-tenancy and resource pooling, rapid elasticity and scalability, and measured service.
+
+
+15.- What is the on-demand self-service on cloud computing?
+Cloud computing resources can be provisioned without human interaction from the service provider. This meand that a manufacturing organization can provision additional computing resource as needed without going throughthe cloud sevice provider.
+
+16.- what means rapid elasticity and scalability in cloud computing?
+
+It is the ability provision resources in the cloud as manufacturing organization need them. Cloud computing resources can scale up or down rapidly and, in some cases, automatically, in response ti business demands. The usage, capacity, and therefore cost can be scaled up or down with noadditional contract or penalties. Elasticity iplies that manufacturing organization can rapidly provision and de-provision any cloud computing resources. Another feature available for rapid elasticity and scalability in the cloud is related to testing of manufacturing applications.
+
+17.- What is blockchain?
+It is defined as a decentralized, distributed ledger that records the provenance of a digital asset. By inherent design, the data on a blockchain is unable to be modified, which makes it a legitimate disruptor for industries like payments, cybersecurity and healthcare. 
+
+18.- How blockchain works? 
+
+Blockchain consist in three concepts: blocks, nodes and miners. Every chain consist of multiple bocks and each blockhas three elements(data, nonce, hash). Miners create new blocks on the chain through a process called mining, miners use special software to solve tthe complex math problem of finding a nonce that generates an accepted hash. No one computer or organization can own the chain. Instead, it is a distributed ledger via nodes connected to the chain, which can be any kind of electronic device that maintains sopies of the blockcchain and keeps the network functioning. 
+
+
+19.- What is smart contracts in blockchain?
+
+A smart contract can define conditions for corporate bond transfers, include terms for travel insurance to be paid and much more.
+
+
+20.- what are the technical obstacles and political challenges for digital currencies?
+
+There are many reasonable arguments against blockchain-based digital currencies. First, crypto is not a very regulated market. Many governments quickly set foot in the field of cryptocurrency, but few governments have enacted a set of strict written laws on this. In addition, due to the aforementioned speculators, cryptocurrencies are very unstable. The lack of stability caused some people to become very wealthy, while most people still lost thousands.
